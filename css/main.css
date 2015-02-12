@@ -37,7 +37,7 @@ float:left;
 width:30%;
 height: 500px;
 background:rgba(255,255,255,0.8);
-padding-left:3%;
+padding-left:3.33%;
 }
 .right-column
 {
@@ -45,7 +45,7 @@ float:left;
 width:30%;
 height: 500px;
 background:rgba(255,255,255,0.8);
-padding-left:3%;
+padding-left:3.33%;
 }
 .center-column
 {
@@ -53,10 +53,14 @@ float:left;
 width:30%;
 height: 500px;
 background:rgba(255,255,255,0.8);
-padding-left:3%;
+padding-left:3.33%;
 }
 
 .contact{
     height: 50%;
     width: 50%;
+}
+
+.about {
+    padding:3%;
 }
