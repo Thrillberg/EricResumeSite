@@ -34,7 +34,7 @@ background:rgba(255,255,255,0.8);
 .left-column
 {
 float:left;
-width:30%;
+width:29%;
 height: 500px;
 background:rgba(255,255,255,0.8);
 padding-left:3.33%;
@@ -42,15 +42,16 @@ padding-left:3.33%;
 .right-column
 {
 float:left;
-width:30%;
+width:29%;
 height: 500px;
 background:rgba(255,255,255,0.8);
 padding-left:3.33%;
+padding-right: 3%;
 }
 .center-column
 {
 float:left;
-width:30%;
+width:29%;
 height: 500px;
 background:rgba(255,255,255,0.8);
 padding-left:3.33%;
