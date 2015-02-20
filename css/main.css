@@ -98,6 +98,14 @@ padding-left:3.33%;
     body { background: url("http://domingonerd.com.br/wp-content/uploads/2013/08/flickr-547944930-original.jpg") no-repeat center center fixed;
         background-size: cover;
     }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
     #contact a {
         display: inline-block;
         width: 50px;
