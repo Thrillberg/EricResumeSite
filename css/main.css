@@ -24,6 +24,7 @@ h4 {
 p {
 	font-size: 16px;
     text-align: left;
+    margin-bottom: 20px;
 }
 
 
@@ -77,3 +78,32 @@ padding-left:3.33%;
     background:rgba(255,255,255,0.8);
     padding:2.5%;
 }
+
+#contact img {
+    width: 15%;
+    height: 15%;
+    display: block;
+}
+
+
+@media screen and (max-width: 1100px) {
+       h2 span { position: static; display: block; }
+ }
+
+@media screen and (max-width: 800px) {
+    .contact, .about, .skills, .left-column, .right-column, .center-column {
+        display: block; padding-left: 0; margin-left: 0; padding-bottom: 0;  text-align: left; width: 100%;
+        margin-top: 6px; height: 100%;
+    }
+    body { background: url("http://domingonerd.com.br/wp-content/uploads/2013/08/flickr-547944930-original.jpg") no-repeat center center fixed;
+        background-size: cover;
+    }
+    #contact a {
+        display: inline-block;
+        width: 50px;
+    } 
+    #contact a img {
+        width: 100%;
+    }
+ }
+
