@@ -59,6 +59,14 @@ background:rgba(255,255,255,0.8);
     body { background-image: url(../img/go_board.jpg) no-repeat center center fixed;
         background-size: cover;
     }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    h4 {
+        font-size: 20px;
+    }
     #contact a {
         display: inline-block;
         width: 50px;
