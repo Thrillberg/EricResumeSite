@@ -1,2 +1,3 @@
-# my-first-github-repo
-An initial test repo for A100 Apprentices to use to practice on.
+Eric's Resume Site
+
+This is where I keep my online resume. Enjoy!
