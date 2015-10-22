@@ -13,6 +13,17 @@ h1 {
 	font-size: 100px; 
 }
 
+.photo {
+    border-style: solid;
+    border-width: 10px;
+    border-color: #464646;
+    float: right;
+}
+
+h2 {
+    text-align: center;
+}
+
 h4 {
     font-size: 25px;
     font-weight: normal;
